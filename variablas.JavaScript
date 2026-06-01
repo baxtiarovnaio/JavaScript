@@ -18,6 +18,23 @@
 
             console.log(b)
 
+            //3 tapsirma 
+
+            let a_stakan = "pepsi"
+            let b_stakan = "cola"
+            let s_stakan = "suw"
+
+            
+            let pustoy_stakan = b_stakan
+
+            b_stakan = s_stakan
+            s_stakan = a_stakan
+            a_stakan = pustoy_stakan
+
+
+            console.log(a_stakan)
+            console.log(b_stakan)
+            console.log(s_stakan)
         </script>
     </body>
 </html>
