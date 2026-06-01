@@ -35,6 +35,16 @@
             console.log(a_stakan)
             console.log(b_stakan)
             console.log(s_stakan)
+
+            //4 tapsirma
+
+            let firstname = "Azamat"
+            let age = 20.8
+            let studenba = false // Awa student
+
+            console.log(typeof(firstname))
+            console.log(typeof(age))
+            console.log(typeof(studenba))
         </script>
     </body>
 </html>
