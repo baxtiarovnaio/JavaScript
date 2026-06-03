@@ -45,6 +45,14 @@
             console.log(typeof(firstname))
             console.log(typeof(age))
             console.log(typeof(studenba))
+
+            //5 tapsirma
+
+            let miywe = 'Banan'
+            let suwma = 27000
+            let = 3
+
+            console.log(` ${miywe}`,  `bahasi ${suwma}`, `${3} kg bahasi 81000 sum boladi` )
         </script>
     </body>
 </html>
