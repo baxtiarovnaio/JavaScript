@@ -22,6 +22,40 @@
                 console.log("Biylet bypul")
             }
 
+
+
+            //2 tapsirma
+
+            let kun = 7
+
+            if (kun === 1){
+                console.log("Bugin birinshi kun")
+            }
+
+            else if (kun === 2){
+                console.log("Bugin ekinshi kun")
+            }
+
+            else if (kun === 3){
+                console.log("Bugin ushinshi kun")
+            }
+
+            else if (kun === 4){
+                console.log("Bugin tortinshi kun")
+            }
+
+            else if (kun === 5){
+                console.log("Bugin besinshi kun")
+            }
+
+            else if (kun === 6){
+                console.log("Bugin altinshi kun")
+            }
+
+            else if (kun === 7){
+                console.log("Bugin qala kun")
+            }
+
         </script>
     </body>
 </html>
