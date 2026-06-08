@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+    <head></head>
+    <body>
+        <script>
+            let age = 65
+
+            if (age >= 70){
+                console.log("Baha:40000")
+            }
+
+            else if (age >= 50){
+                console.log("Baha:30000")
+            }
+
+            else if (age >= 30){
+                console.log("Baha:20000")
+            }
+
+            else if (age >= 10){
+                console.log("Biylet bypul")
+            }
+
+        </script>
+    </body>
+</html>
